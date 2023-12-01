@@ -1,11 +1,11 @@
 $(".btn-edit").click(function (e) {
-  var id = this.getAttribute('data-bs-id');
-  var name = this.getAttribute('data-bs-name');
-  var price = this.getAttribute('data-bs-price');
-  var description = this.getAttribute('data-bs-description');
-  var content = this.getAttribute('data-bs-content');
-  var img = this.getAttribute('data-bs-img');
-  var sale = this.getAttribute('data-bs-sale');
+  var id = this.getAttribute("data-bs-id");
+  var name = this.getAttribute("data-bs-name");
+  var price = this.getAttribute("data-bs-price");
+  var description = this.getAttribute("data-bs-description");
+  var content = this.getAttribute("data-bs-content");
+  var img = this.getAttribute("data-bs-img");
+  var sale = this.getAttribute("data-bs-sale");
 
   $("#EditProductModal input[name='id']").val(id);
   $("#EditProductModal input[name='name']").val(name);
@@ -18,12 +18,13 @@ $(".btn-edit").click(function (e) {
 });
 
 $(".btn-delete").click(function (e) {
-  var id = this.data("id");
+  var id = this.getAttribute("data-as-id");
   $("#DeleteProductModal input[name='id']").val(id);
   $("#DeleteProductModal").modal("show");
 });
+
 $(document).ready(function () {
-  $('#tab-product').DataTable();
+  $("#tab-product").DataTable();
 });
 // $("#form-add-product").submit(function (e) {
 //   e.preventDefault();

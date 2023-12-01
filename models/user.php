@@ -80,7 +80,7 @@ class User{
 
     static function insert($email, $profile_photo, $fname, $lname, $gender, $age, $phone, $password)
     {
-        $password = password_hash($password, PASSWORD_DEFAULT);
+        // $password = password_hash($password, PASSWORD_DEFAULT);
         $db = DB::getInstance();
         $req = $db->query(
             "

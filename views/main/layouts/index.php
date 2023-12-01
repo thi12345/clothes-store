@@ -37,7 +37,7 @@
             <span class="fw-bold">Fashion for all - Thời trang cho mọi người</span>
           <p class="fst-italic justify-content">
             <span style="display: flex; justify-content: center; align-items: center;">
-              <img src="assets/images/team_logo.png" alt="" style="width: 15%; height: auto; object-position: center;">
+              <img src="assets/images/team_logo.jpg" alt="" style="width: 15%; height: auto; object-position: center;">
             </span>
             <br>
             Logo được lấy ý tưởng chính từ trái chanh vàng (lemon), tên gọi của nhóm với hình dáng cách điệu của trái chanh. Lemon tượng trưng cho sự đơn giản, không cầu kỳ, hướng tới hạnh phúc chân chính.

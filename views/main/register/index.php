@@ -20,7 +20,7 @@
         <form action="index.php?page=main&controller=register&action=submit" method="POST" class="text-right">
             <div class="register-box" id="regUser">
                 <div class="top-header">
-                    <img src="assets/images/team_logo.png" alt="" width="72" height="72">
+                    <img src="assets/images/team_logo.jpg" alt="" width="72" height="72">
                     <h3>Sign Up</h3>
                     <small>Become a part of us</small>
                 </div>
