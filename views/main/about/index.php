@@ -34,6 +34,7 @@
         @import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&family=Montserrat:wght@400;700&family=Roboto&display=swap');
         .about--info{
             margin:0 auto;
+
         }
         .text--italic{
             font-family: 'Kaushan Script', cursive;
@@ -58,6 +59,8 @@
             height: 3px;
             width: 65px;
             background: linear-gradient(45deg, #00853e, #50c878);
+     
+            
             bottom:0;
         }
         .para--short{
@@ -79,7 +82,7 @@
             align-items: center;
             width: 100vw;
             background: hsla(39, 100%, 77%, 1);
-            background: linear-gradient(45deg, #00853e, #50c878);
+            background: linear-gradient(45deg, #0000FF, #2b76c2);
         }
         .card--personal-info{
             width: 300px;
@@ -229,30 +232,21 @@
     <div class="about--info">
         <div class="text--italic">Who we are</div>
         <div class="text--bold">MEET OUR TEAM</div>
-        <div class="para--short">Chúng tôi - Nhóm Lemon gồm 4 chàng trai với phong cách chạy deadline lãng tử với những đam mê khác nhau nhưng cùng chung mục tiêu hoàn thành project một cách trọn vẹn nhất.
-        Đội ngũ IT vẫn đang ngày đêm cố gắng hoàn nhằm đem lại cho khách hàng những trải nghiệm tuyệt vời nhất. Tuy nhiên vẫn không tránh khỏi một vài lỗi, mong quý khách nếu phát hiện vui lòng để lại comment hoặc gửi feedback về cho đội ngũ thông qua địa chỉ phía dưới đây. Chúng tôi luôn trân trọng các ý kiến đóng góp và phản hồi sớm nhất có thể!!!
+        <div class="para--short">Chúng tôi - Nhóm New Gen gồm 3 chàng trai với cùng chung mục tiêu hoàn thành project một cách trọn vẹn nhất.
+        Đội ngũ developer vẫn đang ngày đêm cố gắng hoàn nhằm đem lại cho khách hàng những trải nghiệm tuyệt vời nhất. Tuy nhiên vẫn không tránh khỏi một vài lỗi, mong quý khách nếu phát hiện vui lòng để lại comment hoặc gửi feedback về cho đội ngũ thông qua địa chỉ phía dưới đây. Chúng tôi luôn trân trọng các ý kiến đóng góp và phản hồi sớm nhất có thể!!!
         </div>
         <div class="card--personal">
             <div class="card--personal-info">
-                <img src="https://avatars.githubusercontent.com/u/100073936?s=400&u=60231bd3dda8030cce71da8822a9a3d849c450cb&v=4" alt="" class="card-img">
-                <h2 class="name">Phạm Hoàng Đức Huy</h2>
+                <img src="#" alt="" class="card-img">
+                <h2 class="name">Nguyễn Đình Thi</h2>
                 <p class="role">Developer</p>
                 <div class="card-social">
-                    <a href="https://www.facebook.com/duchuy22902" class="facebook" class="facebook"><i class="fa-brands fa-facebook"></i></a>
-                    <a href="https://www.youtube.com/channel/UCmvIP_5mg49uGi5BSuRi9Nw" class="youtube"><i class="fa-brands fa-youtube"></i></a>
+                    <a href="https://www.facebook.com/tatsuya1334/" class="facebook" class="facebook"><i class="fa-brands fa-facebook"></i></a>
+                    <a href="https://www.youtube.com/channel/UCXODeWrWqCM-sYZCcEetWfA" class="youtube"><i class="fa-brands fa-youtube"></i></a>
                     <a href="https://github.com/duchuykg" class="github"><i class="fa-brands fa-github"></i></a>
                 </div>
             </div>
-            <div class="card--personal-info">
-                <img src="/BigFarm/assets/images/designing.jpg" alt="" class="card-img">
-                <h2 class="name">Giang Tuấn Hiền</h2>
-                <p class="role">Developer</p>
-                <div class="card-social">
-                    <a href="#" class="facebook"><i class="fa-brands fa-facebook"></i></a>
-                    <a href="#" class="youtube"><i class="fa-brands fa-youtube"></i></a>
-                    <a href="#" class="github"><i class="fa-brands fa-github"></i></a>
-                </div>
-            </div>
+            
             <div class="card--personal-info">
                 <img src="https://scontent.fsgn4-1.fna.fbcdn.net/v/t1.6435-9/108175787_190264442434866_2598380075968207340_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=174925&_nc_ohc=irAaPc6wSOEAX-I-qHP&_nc_ht=scontent.fsgn4-1.fna&oh=00_AfDuI02ZK8dxZGiPICQ33c38foNIUdz6PkV-nFzSg8CISA&oe=64530A8B" alt="" class="card-img">
                 <h2 class="name">Vũ Đăng Khoa</h2>
@@ -277,13 +271,13 @@
         <div class="about--service">
             <div class="text--italic">What we do</div>
             <div class="text--bold">OUR SERVICE</div>
-            <div class="para--short">Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae minima, blanditiis eveniet officiis non et cumque tenetur quis. Adipisci quae laudantium, repudiandae fuga alias accusantium temporibus doloribus quisquam eligendi iure!
+            <div class="para--short"> Công ty mong muốn đem đến cho khách hàng những trải nghiệm tốt nhất. Sự hài lòng của khách hàng là động lực của chúng tôi.
             </div>
             <div class="about-container">
                 <div class="service--item first-item">TƯ VẤN</div>
                 <div class="service--item second-item">THIẾT KẾ</div>
                 <div class="service--item third-item">BÁN LẺ</div>
-                <div class="service--item fourth-item">HOÁ TRANG</div>
+            
             </div>
         </div>
     </div>
