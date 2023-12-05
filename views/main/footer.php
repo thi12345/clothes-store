@@ -59,7 +59,7 @@
           <h6 class="text-uppercase fw-bold mb-4">Contact</h6>
           <p><i class="fas fa-home"></i>Address: KTX Khu A</p>
           <p>
-            <i class="fas fa-envelope"></i>Email: bigfarm@gmail.com</p>
+            <i class="fas fa-envelope"></i>Email: newgen@gmail.com</p>
           <p><i class="fas fa-phone"></i>Hotline: 01 234 567 88</p>
         </div>
         <!-- Grid column -->
