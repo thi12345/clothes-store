@@ -9,7 +9,7 @@
         <div class="col-md-3 col-lg-4 col-xl-3 mx-auto mb-4 mt-5">
           <!-- Content -->
           <h6 class="text-uppercase fw-bold mb-4">
-            <i class="fas fa-gem"></i>BIG FARM
+            <i class="fas fa-gem"></i>NEW GEN
           </h6>
           <p>
             <span class="fw-bold fst-italic">FASHION FOR ALL</span>
@@ -66,18 +66,22 @@
       </div>
       <!-- Grid row -->
       <div class="text-center">
-        <h4>© 2022 - CÔNG TY TNHH BIGFARM VN </h4>
+        <h4>© 2022 - CÔNG TY TNHH NEWGEN VN </h4>
+        <h6>
+        Giấy CNĐKDN: 0310874914 – Ngày cấp: 25/11/2015 - Cơ quan cấp: Phòng Đăng Ký Kinh Doanh – Sở Kế Hoạch và Đầu Tư TP.HCM.
+        </h6>
+        <h6>
+        Địa chỉ đăng ký kinh doanh: 766/3B-3C Sư Vạn Hạnh (Nối dài), Phường 12, Quận 10, TP.HCM - Điện thoại: (028) 3868 4857 - Mua hàng: (028) 2222 3333 - Email: cskh@newgen.vn
 
-      Giấy CNĐKDN: 0310874914 – Ngày cấp: 25/11/2011 - Cơ quan cấp: Phòng Đăng Ký Kinh Doanh – Sở Kế Hoạch và Đầu Tư TP.HCM
+        </h6>
 
-      Địa chỉ đăng ký kinh doanh: 766/3B-3C Sư Vạn Hạnh (Nối dài), Phường 12, Quận 10, TP.HCM - Điện thoại: (028) 3868 4857 - Mua hàng: (028) 7307 1441 - Email: cskh@yame.vn
       </div>
     </div>
   <!-- Section: Links  -->
 
   <!-- Copyright -->
   <div class="text-center p-2 fw-bold" style="background-color: rgba(0, 0, 0, 0.05);">
-    <a href="index.php?page=main&controller=layouts&action=index"><span class="red">BIG</span><span class="green">FARM</span> 
+    <a href="index.php?page=main&controller=layouts&action=index"><span class="red" style="color:#0000FF">NEWGEN</span>
   </div>
   <!-- Copyright -->
 </footer>
