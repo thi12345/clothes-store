@@ -83,7 +83,7 @@ CREATE TABLE `company` (
   `createAt` datetime DEFAULT NULL,
   `updateAt` datetime DEFAULT NULL,
   `phone` int(11) NOT NULL,
-  `gmail` varchar(255) DEFAULT NULL
+  `gmail` varchar(255) DEFAULT NULL 
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 
 --
