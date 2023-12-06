@@ -9,7 +9,7 @@
         <div class="col-md-3 col-lg-4 col-xl-3 mx-auto mb-4 mt-5">
           <!-- Content -->
           <h6 class="text-uppercase fw-bold mb-4">
-            <i class="fas fa-gem"></i>NEW GEN
+            <i class="fas fa-gem"></i>NG
           </h6>
           <p>
             <span class="fw-bold fst-italic">FASHION FOR ALL</span>
@@ -81,7 +81,7 @@
 
   <!-- Copyright -->
   <div class="text-center p-2 fw-bold" style="background-color: rgba(0, 0, 0, 0.05);">
-    <a href="index.php?page=main&controller=layouts&action=index"><span class="red" style="color:#0000FF">NEWGEN</span>
+    <a href="index.php?page=main&controller=layouts&action=index"><span class="red" style="color:#337Dff">NG</span>
   </div>
   <!-- Copyright -->
 </footer>

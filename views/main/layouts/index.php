@@ -80,7 +80,7 @@
         <div class="row content" >
           <div class="container px-4 px-lg-6">
           <div class="row m-4">
-              <h2 class="text-center mt-3" ><span class="green" style="color:#0000FF">NEW GEN</span> - <span class="fw-bold">NÂNG NIU VÓC DÁNG VIỆT</span></h2><br>
+              <h2 class="text-center mt-3" ><span class="green" style="color:#337Dff">NEW GEN</span> - <span class="fw-bold">NÂNG NIU VÓC DÁNG VIỆT</span></h2><br>
         
           <p class = "text-center">
             <span class="fw-bold">Fashion for GEN Z - Thời trang năng động cho giới trẻ</span>

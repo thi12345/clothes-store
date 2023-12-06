@@ -95,7 +95,7 @@ body {
   position: relative;
 }
 i {
-  position: absolute;
+  /* position: absolute; */
   color: #444444;
   cursor: pointer;
 }

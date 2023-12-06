@@ -27,7 +27,7 @@
                 <div class="input-group">
                     <div class="name-box">
                         <div class="input-field">
-                            <input type="text" class="input-box" id="fname" name="fmane" required>
+                            <input type="text" class="input-box" id="fname" name="fname" required>
                             <label for="regUser">First Name</label>
                         </div>
                         <div class="input-field">
