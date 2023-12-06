@@ -1,5 +1,5 @@
 <footer class="text-center">
-<p class="mt-5 mb-3 text-muted">© Lemon team</p>
+<p class="mt-5 mb-3 text-muted">© NG team</p>
 
 </footer>
 </div>

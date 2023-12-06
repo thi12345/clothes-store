@@ -12,7 +12,7 @@
 <body class="text-center">
 	<div class="form-signin w-100 m-auto">
 		<form action="index.php?page=admin&controller=login&action=check" method="POST">
-			<img class="mb-4 border rounded-circle p-1" src="assets\images\team_logo.png" alt="" width="72" height="72">
+			<img class="mb-4 border rounded-circle p-1" src="assets\images\team_logo.jpg" alt="" width="72" height="72">
 			<h1 class="h3 mb-3 fw-normal">Please sign in</h1>
 			<?php
 			if (isset($err)) {
@@ -33,7 +33,7 @@
 				<p class="text-muted">Sign in as Administrator</p>
 			</div>
 			<button class="w-100 btn btn-lg btn-primary" type="submit">Sign in</button>
-			<p class="mt-5 mb-3 text-muted">© Lemon team</p>
+			<p class="mt-5 mb-3 text-muted">© NG team</p>
 		</form>
 	</div>
 </body>

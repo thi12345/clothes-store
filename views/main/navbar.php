@@ -1,5 +1,8 @@
 <?php
-  // session_start();
+if(!isset($_SESSION)){
+  session_start();
+}
+  
   if (isset($_SESSION['guest']))
   {
     require_once('models/user.php');
